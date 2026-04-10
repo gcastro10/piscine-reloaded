@@ -2,7 +2,7 @@
 
 ![42 Logo](https://img.shields.io/badge/42-Lisboa-black?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Language-C-blue?style=for-the-badge)
-![Progress](https://img.shields.io/badge/Progress-100%-green?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-100/100-green?style=for-the-badge)
 
 ## 📌 Project Overview
 This repository contains my solutions for the **42 Lisboa Piscine Reloaded (April 6th - April 10th 2026)**. It serves as a comprehensive record of my journey through the fundamentals of Shell scripting and C programming. 
